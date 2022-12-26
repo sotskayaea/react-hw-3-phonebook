@@ -1,0 +1,19 @@
+.phonebook{
+    width:300px;
+    height: auto;
+    padding: 20px 40px;
+    margin: 30px auto;
+    border: 2px solid #2CD8D5;
+    border-radius: 45px;
+}
+
+.title{
+    text-align: center;
+    color:#8E37D7;
+   
+}
+
+.contacts__title{
+    text-align: center;
+    color:#8E37D7;
+}

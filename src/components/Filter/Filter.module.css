@@ -1,0 +1,34 @@
+.filter{
+  padding: 0px 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.label{
+    position: relative;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color:#8E37D7;
+}
+
+.input{
+    width: 250px;
+    height: 20px;
+    border-bottom: 1px solid #2CD8D5;
+    padding-left: 20px;
+}
+
+.input::placeholder{
+    color: #8E37D7;
+}
+
+.icon{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 25px;
+    left: 0;   
+
+}
+
